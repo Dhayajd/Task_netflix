@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+}
+.home{
+
+    width:1560px;
+    height: 1000px;
+    background-image: url("background.jpg");
+    
+}
+.sentence1{
+    font-size: 50px;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size:50px;
+    padding-top:300px;
+    padding-left:280px;
+}
+.sentence2{
+    position: absolute;
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+    padding-top:10px;
+    padding-left:550px;
+    }
+    .sentence3{
+        color: white;
+        font-size: 23px;
+        font-family: sans-serif;
+        padding-top:70px;
+        padding-left: 380px;
+
+    }
+    .bar{
+        border: 1px solid gray;
+        width: 460px;
+        height: 30px;
+        margin-left: 430px;
+        
+    }
+.button{
+    color: white;
+    font-size: 20px;
+    height: 30px;
+    width:200px;
+    border: 1px solid red;
+    background-color: red;
+}
